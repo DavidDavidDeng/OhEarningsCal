@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:rcQpmWs0Qdb9n4_tJdYIT
+UID:MLMIKmh-PTAp7voV5VXau
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20241009T164423Z
+DTSTAMP:20241010T044204Z
 DTSTART;VALUE=DATE:20241017
 DESCRIPTION:财务季度：Sep/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $1.74，当前市值: $96
 	4\,932\,361\,537。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在富途查
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9L5iVxPO9rT_fKVnAWFhp
+UID:DQRoJsvhTAEkSJEQc0sru
 SUMMARY:Novo Nordisk 盘前发布财报
-DTSTAMP:20241009T164423Z
+DTSTAMP:20241010T044204Z
 DTSTART;VALUE=DATE:20241106
-DESCRIPTION:财务季度：Sep/2024。\n代码：NVO，公司：Novo Nordisk，行业: 制药。\n预计每股收益: $0.88，当
-	前市值: $525\,516\,743\,836。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NV
+DESCRIPTION:财务季度：Sep/2024。\n代码：NVO，公司：Novo Nordisk，行业: 制药。\n预计每股收益: $0.90，当
+	前市值: $522\,973\,273\,139。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NV
 	O \n在富途查看：https://www.futunn.com/hk/stock/NVO-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -38,12 +38,28 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Y5z05ZwQCoQhp21_IvcNy
+UID:TBD4kUlTIBnqnLLoPs87p
+SUMMARY:Arm 盘后发布财报
+DTSTAMP:20241010T044204Z
+DTSTART;VALUE=DATE:20241106
+DESCRIPTION:财务季度：Sep/2024。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.08，当前市值: $14
+	9\,391\,459\,369。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
+	看：https://www.futunn.com/hk/stock/ARM-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ew8S8Qj99t4t7Pofcug5U
 SUMMARY:Super Micro Computer 发布财报
-DTSTAMP:20241009T164423Z
+DTSTAMP:20241010T044204Z
 DTSTART;VALUE=DATE:20241106
 DESCRIPTION:财务季度：Sep/2024。\n代码：SMCI，公司：Super Micro Computer，行业: 计算机硬件。\n预计每
-	股收益: $0.51，当前市值: $27\,954\,885\,989。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
+	股收益: $0.51，当前市值: $26\,555\,384\,994。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
 	/?symbol=SMCI \n在富途查看：https://www.futunn.com/hk/stock/SMCI-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:LpctbPtqFK5onOrRdI-6v
+UID:NBiwQ3DGxqUTF3A5KrfrW
 SUMMARY:Shopify 发布财报
-DTSTAMP:20241009T164423Z
+DTSTAMP:20241010T044204Z
 DTSTART;VALUE=DATE:20241107
 DESCRIPTION:财务季度：Sep/2024。\n代码：SHOP，公司：Shopify，行业: 电子商务。\n预计每股收益: $0.18，当前市
 	值: $106\,560\,117\,500。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SHOP
@@ -70,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7QmIBDSfjGUW2FIFZKxrB
+UID:LwLNzOrFfTGA5Fp7gxR5e
 SUMMARY:Square 发布财报
-DTSTAMP:20241009T164423Z
+DTSTAMP:20241010T044204Z
 DTSTART;VALUE=DATE:20241107
 DESCRIPTION:财务季度：Sep/2024。\n代码：SQ，公司：Square，行业: 金融科技。\n预计每股收益: $0.43，当前市值: 
 	$42\,017\,771\,250。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SQ \n在富途
@@ -86,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pLm0WmVFoNA3nFr9E0wPi
+UID:PDbf29Xql_RsLlGBkxDMo
 SUMMARY:Coinbase 发布财报
-DTSTAMP:20241009T164423Z
+DTSTAMP:20241010T044204Z
 DTSTART;VALUE=DATE:20241107
 DESCRIPTION:财务季度：Sep/2024。\n代码：COIN，公司：Coinbase，行业: 金融科技。\n预计每股收益: $0.37，当前
 	市值: $41\,667\,228\,363。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COIN
@@ -102,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9Bnj-y9Sy5fHrVcpGb7Ie
+UID:EdVUNgKR_RAEBPHxqLmbc
 SUMMARY:Cloudflare 发布财报
-DTSTAMP:20241009T164423Z
+DTSTAMP:20241010T044204Z
 DTSTART;VALUE=DATE:20241107
 DESCRIPTION:财务季度：Sep/2024。\n代码：NET，公司：Cloudflare，行业: 云计算。\n预计每股收益: ($0.03)，
 	当前市值: $27\,937\,615\,531。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NE
