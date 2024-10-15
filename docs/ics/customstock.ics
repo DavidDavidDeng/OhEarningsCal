@@ -6,12 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:sqUtgf3r49lk7u0YYLoUe
+UID:XYgzqL4wFn0lUNZTWqAtq
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20241014T164518Z
+DTSTAMP:20241015T044248Z
 DTSTART;VALUE=DATE:20241017
-DESCRIPTION:财务季度：Sep/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $1.74，当前市值: $96
-	3\,532\,029\,704。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在富途查
+DESCRIPTION:财务季度：Sep/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $1.74，当前市值: $98
+	9\,619\,693\,120。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在富途查
 	看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8S4SGHV1m9MGxNCrj9Z5a
+UID:kcCiGj9JLSpn01Ub2ypGg
 SUMMARY:Coinbase 盘后发布财报
-DTSTAMP:20241014T164518Z
+DTSTAMP:20241015T044248Z
 DTSTART;VALUE=DATE:20241030
 DESCRIPTION:财务季度：Sep/2024。\n代码：COIN，公司：Coinbase，行业: 金融科技。\n预计每股收益: $0.34，当前
 	市值: $43\,826\,499\,724。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COIN
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:v_QxxsNnFLGH2HVin5VsL
+UID:dVXXCt2kEJ4S9-tW96ZLo
 SUMMARY:Novo Nordisk 盘前发布财报
-DTSTAMP:20241014T164518Z
+DTSTAMP:20241015T044248Z
 DTSTART;VALUE=DATE:20241106
 DESCRIPTION:财务季度：Sep/2024。\n代码：NVO，公司：Novo Nordisk，行业: 制药。\n预计每股收益: $0.90，当
-	前市值: $524\,445\,808\,806。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NV
+	前市值: $535\,646\,004\,331。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NV
 	O \n在富途查看：https://www.futunn.com/hk/stock/NVO-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:mFjHrz6wOIS3rGWn3tg9U
+UID:uYi6kNMjIj93e4m4XPfkW
 SUMMARY:Arm 盘后发布财报
-DTSTAMP:20241014T164518Z
+DTSTAMP:20241015T044248Z
 DTSTART;VALUE=DATE:20241106
 DESCRIPTION:财务季度：Sep/2024。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.08，当前市值: $15
-	5\,352\,553\,117。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
+	7\,568\,457\,075。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
 	看：https://www.futunn.com/hk/stock/ARM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9ygiO4UkdxYlHutp5BX5K
+UID:Eny8uDJ37ttPlxOZVAQB5
 SUMMARY:Super Micro Computer 发布财报
-DTSTAMP:20241014T164518Z
+DTSTAMP:20241015T044248Z
 DTSTART;VALUE=DATE:20241106
 DESCRIPTION:财务季度：Sep/2024。\n代码：SMCI，公司：Super Micro Computer，行业: 计算机硬件。\n预计每
-	股收益: $0.51，当前市值: $27\,211\,218\,096。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
+	股收益: $0.51，当前市值: $27\,990\,019\,906。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
 	/?symbol=SMCI \n在富途查看：https://www.futunn.com/hk/stock/SMCI-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:PTKAxYGkDYJPk2jMIMGRj
+UID:nF9JY1_AF88ejP8Phfk1i
 SUMMARY:Shopify 发布财报
-DTSTAMP:20241014T164518Z
+DTSTAMP:20241015T044248Z
 DTSTART;VALUE=DATE:20241107
 DESCRIPTION:财务季度：Sep/2024。\n代码：SHOP，公司：Shopify，行业: 电子商务。\n预计每股收益: $0.18，当前市
 	值: $107\,411\,772\,592。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SHOP
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:jZPsC15FTrxTeJWGILNC-
+UID:stpWhpGWHMbq_jNg1BzeI
 SUMMARY:Square 发布财报
-DTSTAMP:20241014T164518Z
+DTSTAMP:20241015T044248Z
 DTSTART;VALUE=DATE:20241107
 DESCRIPTION:财务季度：Sep/2024。\n代码：SQ，公司：Square，行业: 金融科技。\n预计每股收益: $0.43，当前市值: 
 	$42\,910\,456\,500。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SQ \n在富途
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:V8MIMt7Ogg858RA8sYSOn
+UID:PwfHxel49usQBJpZGYLFp
 SUMMARY:Cloudflare 盘后发布财报
-DTSTAMP:20241014T164518Z
+DTSTAMP:20241015T044248Z
 DTSTART;VALUE=DATE:20241107
 DESCRIPTION:财务季度：Sep/2024。\n代码：NET，公司：Cloudflare，行业: 云计算。\n预计每股收益: ($0.03)，
 	当前市值: $31\,938\,954\,546。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NE
@@ -134,9 +134,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hP78h7ZslhPnahBsvtg2C
+UID:luRml99wDJmpYxJqtYKjL
 SUMMARY:Unity 盘后发布财报
-DTSTAMP:20241014T164518Z
+DTSTAMP:20241015T044248Z
 DTSTART;VALUE=DATE:20241107
 DESCRIPTION:财务季度：Sep/2024。\n代码：U，公司：Unity，行业: 软件。\n预计每股收益: ($0.39)，当前市值: $8
 	\,580\,065\,636。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=U \n在富途查看：h
@@ -150,9 +150,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SAO3fGVTgfEzk4hbZiDl8
+UID:upV8RrO2SMrfq1SavREOM
 SUMMARY:BOSS 直聘 发布财报
-DTSTAMP:20241014T164518Z
+DTSTAMP:20241015T044248Z
 DTSTART;VALUE=DATE:20241112
 DESCRIPTION:财务季度：Sep/2024。\n代码：BZ，公司：BOSS 直聘，行业: 人力资源。\n预计每股收益: $0.13，当前市值:
 	 $7\,478\,746\,352。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BZ \n在富途
